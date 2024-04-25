@@ -21,9 +21,25 @@ By leveraging Airbnb's historical listing data, we can provide valuable insights
 -Pricing strategies: Understanding local pricing trends and competitor analysis to set competitive yet profitable rates.
 -Guest communication: Highlighting effective listing promotional language and descriptions that resonate with guests in Bangkok.
 
-Goal: Guiding New Partners for Success
+**Goal:** 
 
-Through this data analysis project, we aim to answer the following question: What are the key recommendations that can be provided to new listing providers embarking on their journey as Airbnb partners in Bangkok?
+Through this data analysis project, we aim to answer the following question: **What are the key recommendations that can be provided to new listing providers embarking on their journey as Airbnb partners in Bangkok?**
 
 By providing key recommendations, we can empower new partners to make well-informed business decisions and optimize their listings. This, in turn, will contribute to a thriving Airbnb ecosystem in Bangkok and foster a mutually beneficial long-term relationship between Airbnb and its partners.
 
+
+**Files**
+
+There are several files for this analysis, consisting of:
+
+5 jupyter notebooks:
+
+1. airbnb_bkk_cleaning - part 1
+2. airbnb_bkk_data_analysis part 1
+3. airbnb_bkk_data_analysis part 2
+4. airbnb_bkk_data_analysis part 3
+5. airbnb_bkk_data_analysis part 4
+
+Data visualization:
+
+https://public.tableau.com/app/profile/harish.muhammad/viz/AirbnbBangkok-ListingPropertyAnalysis/Homedashboard?publish=yes 

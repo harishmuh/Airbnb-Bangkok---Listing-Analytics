@@ -1,4 +1,4 @@
-Business Understanding
+**Business Understanding**
 
 Context
 
@@ -26,3 +26,4 @@ Goal: Guiding New Partners for Success
 Through this data analysis project, we aim to answer the following question: What are the key recommendations that can be provided to new listing providers embarking on their journey as Airbnb partners in Bangkok?
 
 By providing key recommendations, we can empower new partners to make well-informed business decisions and optimize their listings. This, in turn, will contribute to a thriving Airbnb ecosystem in Bangkok and foster a mutually beneficial long-term relationship between Airbnb and its partners.
+

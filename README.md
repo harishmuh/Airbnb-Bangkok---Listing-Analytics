@@ -1,5 +1,7 @@
 Business Understanding
+
 Context
+
 Airbnb is an online marketplace and hospitality service that allows people to rent out their properties or spare rooms to guests. 
 Founded in 2007 by Brian Chesky, Joe Gebbia, and Nathan Blecharczyk in San Francisco, Airbnb has grown into one of the world's largest accommodation-sharing platforms. 
 It operates through a website and mobile app, connecting hosts and travelers from around the globe. Guests can browse through various listings, ranging from entire homes and apartments to unique accommodations like treehouses and castles. 

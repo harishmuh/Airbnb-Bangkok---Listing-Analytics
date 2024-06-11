@@ -1,4 +1,6 @@
-**Business Understanding**
+![Airbnb image](https://miro.medium.com/v2/resize:fit:1200/1*PRPg5iDN4ZS6AIJOLsT8Qg.png)
+
+# **Business Understanding**
 
 Context
 
@@ -21,14 +23,14 @@ By leveraging Airbnb's historical listing data, we can provide valuable insights
 -Pricing strategies: Understanding local pricing trends and competitor analysis to set competitive yet profitable rates.
 -Guest communication: Highlighting effective listing promotional language and descriptions that resonate with guests in Bangkok.
 
-**Goal:** 
+# **Goal:** 
 
 Through this data analysis project, we aim to answer the following question: **What are the key recommendations that can be provided to new listing providers embarking on their journey as Airbnb partners in Bangkok?**
 
 By providing key recommendations, we can empower new partners to make well-informed business decisions and optimize their listings. This, in turn, will contribute to a thriving Airbnb ecosystem in Bangkok and foster a mutually beneficial long-term relationship between Airbnb and its partners.
 
 
-**Files**
+# **Files**
 
 There are several files for this analysis, consisting of:
 

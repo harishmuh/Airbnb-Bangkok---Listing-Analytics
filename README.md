@@ -24,7 +24,7 @@ By leveraging Airbnb's historical listing data, we can provide valuable insights
 * **Pricing strategies**: Understanding local pricing trends and competitor analysis to set competitive yet profitable rates.
 * **Guest communication**: Highlighting effective listing promotional language and descriptions that resonate with guests in Bangkok.
 
-## **Goal: Guiding New Partner of AirBnB for Success** 
+### **Goal: Guiding New Partner of AirBnB for Success** 
 
 Through this data analysis project, we aim to answer the following question: 
 
@@ -32,19 +32,24 @@ Through this data analysis project, we aim to answer the following question:
 
 By providing key recommendations, we can empower new partners to make well-informed business decisions and optimize their listings. This, in turn, will contribute to a thriving Airbnb ecosystem in Bangkok and foster a mutually beneficial long-term relationship between Airbnb and its partners.
 
+### **Analytical Approach**
+![Analytical approach](https://github.com/harishmuh/Airbnb-Bangkok---Listing-Analytics/blob/main/1analytical_approach.PNG)
+
+
+
 ## **Insights and Key Recommendations**
 * **Listing Distribution**: There are some neighborhoods in Bangkok that have a high density of listings and have high listing competition. The locations of neighborhoods with a high density of listings are mostly near the center of Bangkok or near the tourist attraction. Interstingly, some neighborhoods that have the highest price of listing (Orange color) and generate the highest number of reviews, are also located in the center of Bangkok, near the tourist attraction. This indicates that location has a role in affecting price and number of reviews.
-![Listing Distribution](https://github.com/harishmuh/Airbnb-Bangkok---Listing-Analytics/blob/main/Listing_distribution%20in%20Bangkok.PNG) 
-![Neighbourhood by review](https://github.com/harishmuh/Airbnb-Bangkok---Listing-Analytics/blob/main/popular_listing_based_on_neighbourhood.PNG)
+![Listing price Distribution](https://github.com/harishmuh/Airbnb-Bangkok---Listing-Analytics/blob/main/2listing_price_pattern.PNG) 
+![Neighbourhood by review](https://github.com/harishmuh/Airbnb-Bangkok---Listing-Analytics/blob/main/3listing_popularity_pattern.PNG)
 * The new listing providers need to be aware of the intensity of listing competition in their neighborhoods. In highly competitive locations, the new listing providers as the new entrants need to find their own additional uniqueness (based on amenities or probably add more services) that can be promoted in the listing description and use it as a competitive advantage to attract customers.
 If the new listing providers have resources, consider organizing the listing into entire homes/apt as this room type has the highest number of reviews.
 ![Listing by review](https://github.com/harishmuh/Airbnb-Bangkok---Listing-Analytics/blob/main/popularity_vs_room_type.PNG)
 
 * The new listing providers need to consider registering their listing in the price category of premium as this category has the highest number of reviews in recent and all times.
-![Listing price by room type](https://github.com/harishmuh/Airbnb-Bangkok---Listing-Analytics/blob/main/listing_price_vs_room_type.PNG)
+![Listing price by room type](https://github.com/harishmuh/Airbnb-Bangkok---Listing-Analytics/blob/main/4_listing_price_popularity.PNG)
 
 * Considering to use of English for listing promotional instructions as this has a tendency to aim for higher prices and generate more reviews. However, the listing provider can also use non-English language instructions (such as Thai and Mandarin), if they want to attract a specific language user or target niche market.
-![Listing by languages](https://github.com/harishmuh/Airbnb-Bangkok---Listing-Analytics/blob/main/listing%20in%20English_vs_total_reviews.PNG)
+![Listing by languages](https://github.com/harishmuh/Airbnb-Bangkok---Listing-Analytics/blob/main/5listing_eng_vs_non_eng.PNG)
 
 * In formulating a listing description, consider highlighting the nearby major attraction and access as a selling point (e.g., Sukhumvit, BTS, walk, near), providing an accurate description of room type and listing facilities (e.g., room, condo, studio, apartment, bed, house), and adding the element of comfort (e.g., Cozy, private, luxury)
 ![Top 20 popular words](https://github.com/harishmuh/Airbnb-Bangkok---Listing-Analytics/blob/main/top_20_words_for_listing_description.PNG)
